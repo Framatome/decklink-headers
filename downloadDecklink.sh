@@ -1,7 +1,7 @@
 #!/bin/sh
 
 downloadDecklink() {
-    local _ver=11.6
+    local _ver=11.7
     local _arch=Windows
     local _referid=fbbb2af999e546cfb86389978700480a
     local _downloadid=761a49d851a24c20bb54f6ab010a8909
